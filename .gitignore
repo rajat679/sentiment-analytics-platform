@@ -49,3 +49,4 @@ htmlcov/
 .pytest_cache/
 ml/data/raw/*
 !ml/data/raw/.gitkeep
+!ml/models/advanced/metadata.json
