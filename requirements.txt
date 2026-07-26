@@ -49,3 +49,5 @@ httpx==0.27.2
 # Code quality
 black==24.10.0
 isort==5.13.2
+matplotlib==3.9.2
+seaborn==0.13.2
